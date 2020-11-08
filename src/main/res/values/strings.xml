@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="gender">Gender</string>
+    <string name="bmi">BMI</string>
+    <string name="weight">weight</string>
+    <string name="hight">Hight</string>
+    <string name="name">Name:</string>
+    <string name="start">Start</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
