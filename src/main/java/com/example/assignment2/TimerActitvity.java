@@ -47,7 +47,6 @@ public class TimerActitvity extends AppCompatActivity {
 
     public void onClickStart(View view) {
         isrunning = true;
-     //   seconds = Integer.parseInt(timer.getText().toString());
         String [] time = timer.getText().toString().trim().split(":");
         min = Integer.parseInt(time[1]);
         hour = Integer.parseInt(time[0]);
